@@ -1,0 +1,16 @@
+{
+  "RapidCheats":
+  {
+    "Message": "Rapid Cheats",
+    "Module":
+    {
+      "Version": "1.0.0",
+      "Download": ""
+    },
+    "Injector":
+    {
+      "Version": "1.0.0",
+      "Download": ""
+    }
+  }
+}
